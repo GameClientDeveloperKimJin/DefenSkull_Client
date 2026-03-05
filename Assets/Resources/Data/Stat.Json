@@ -1,0 +1,11 @@
+{
+
+    "stats": 
+    [
+        {
+            "HP": 100,
+            "WarriorDamage" : 10,
+            "ArrowDamage" : 7
+        }
+    ]
+}
